@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="055a76ed-d9cf-494a-9f81-bd526002fa59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Discriminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="055a76ed-d9cf-494a-9f81-bd526002fa59" name="Changes" comment="!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Discriminant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Discriminant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +50,7 @@
       <recent name="C:\Users\lados\IdeaProjects\untitled\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Discriminant">
     <configuration name="Discriminant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Discriminant" />
       <module name="untitled" />
@@ -88,10 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Discriminant" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Leqcia_3_2" />
         <item itemvalue="Application.Min" />
-        <item itemvalue="Application.Discriminant" />
       </list>
     </recent_temporary>
   </component>
@@ -103,8 +95,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665762085236</updated>
-      <workItem from="1665762086741" duration="2660000" />
+      <workItem from="1665762086741" duration="2898000" />
     </task>
+    <task id="LOCAL-00001" summary="!">
+      <created>1665764793087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665764793087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="!" />
+    <option name="LAST_COMMIT_MESSAGE" value="!" />
   </component>
 </project>
